@@ -1,0 +1,38 @@
+.container {
+	margin: 25px;
+	/* width: 350px;
+	height: 200px; */
+	/* outline: dashed 1px black; */
+	display: flex;
+}
+
+#sdp-area {
+	margin: auto;
+	vertical-align: middle;
+	padding: 15px;
+}
+
+#chat-history {
+	width: 300px;
+	height: 100px;
+	margin: auto;
+	background-color: aqua;
+
+	text-align: center;
+}
+
+button {
+	margin: auto;
+}
+
+textarea {
+	padding: 10px;
+	margin: 10px;
+}
+
+input {
+	width: 300px;
+	height: 100px;
+	padding: 10px;
+	margin: 5px;
+}
