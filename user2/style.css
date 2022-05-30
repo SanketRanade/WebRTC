@@ -16,13 +16,14 @@
 	width: 300px;
 	height: 100px;
 	margin: auto;
+	padding-top: 20px;
 	background-color: aqua;
 
 	text-align: center;
 }
 
 button {
-	margin: auto;
+	margin-left: 100px;
 }
 
 textarea {
